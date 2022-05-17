@@ -1,0 +1,1 @@
+hello，this is my first time using git to code.Now  i just test and know how to use it
